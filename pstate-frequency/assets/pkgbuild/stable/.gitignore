@@ -1,0 +1,4 @@
+*.tar.xz
+pstate-frequency*
+*.tar.gz
+*patch
